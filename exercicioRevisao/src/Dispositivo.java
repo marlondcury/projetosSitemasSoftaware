@@ -1,4 +1,4 @@
 public interface Dispositivo {
 
-    void ligar();
+abstract void ligar();
 }
